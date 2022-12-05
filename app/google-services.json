@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409967488554",
+    "project_id": "ambani-book-official-reseller",
+    "storage_bucket": "ambani-book-official-reseller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409967488554:android:69aab73fd9415e9e315d53",
+        "android_client_info": {
+          "package_name": "com.ambanibooks.officialreselleraap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409967488554-rlkudrrke7e9u683h1qj00361biqvnvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ambanibook.officialapp",
+            "certificate_hash": "62bc7fefe6c60ac1ee214699f00e280c56c751bf"
+          }
+        },
+        {
+          "client_id": "409967488554-2b5i9ucne1marqhkiveodg54o6813tqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzU8kAE0mFTJ_PWkd3SzH0CwSRXCCw2cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409967488554-2b5i9ucne1marqhkiveodg54o6813tqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
